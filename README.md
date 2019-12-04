@@ -1,2 +1,2 @@
 # Reading And Modifying Excels
-Learning openpyxl 
+This program takes and xlsx-file in a special format and makes it easily readable
